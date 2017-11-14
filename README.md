@@ -1,5 +1,5 @@
 用git时注意：cd /e:/..这是错误的！ 应该为cd /e/ 
-
+！[666](https://github.com/buzuoxianfish/2017.11.14/blob/master/photo/v2-dfdef2a662e6c06c12c5f1cea3f7f31c_hd.jpg)
 # 2017.11.14
 今日任务：1.按昨天看的分钟数接着看Spring 109分今天可以看到16集 7-16.
 8:48-8:54写任务
