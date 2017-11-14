@@ -1,0 +1,14 @@
+1.装插件->导入jar包
+2.新建项目：实体类 。main 。xml配置bean
+	main：
+		新建IOC容器 ：ApplicationContext xxx=new ClassPathXml,,,,,(".xml");
+		从IOC获取bean： getbean
+	依赖注入：setter 构造器 
+	setter：有set方法 pro,,,
+	构造器：普通函数，方法 con,,,
+ ref对bean引用
+ bean集合：list map 
+ 内部bean
+ 自动配置：autowrie (byName,byType)
+ 继承：parent
+ 依赖：depends-0n
